@@ -11,5 +11,6 @@ namespace Ucu.Poo.Defense
             this.Name = name;
             this.Type = type;
         }
+
     }
 }

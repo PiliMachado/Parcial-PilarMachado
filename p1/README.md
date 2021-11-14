@@ -1,10 +1,8 @@
-En este problema deben demostar que saben cómo implementar responsabilidades de conocer a partir de tarjetas CRC.
+Este archivo `README.md` debe estar en la raíz de la carpeta abierta en Visual Studio Code; en caso contrario deben usar el comando **File|Open Folder...** para abrir la carpeta que lo contiene.
 
-Consigna:
+En este problema deben demostrar que saben cómo implementar responsabilidades de conocer a partir de tarjetas CRC.
 
-Dadas las siguientes tarjetas CRC de las clases `MaterialType` y `Material`, y el código correspondiente en las carpetas `src` y `test`, completar el código que falta para que pasen todos los casos de prueba.
-
-💡 El código que falta está en la clase `Material`.
+Sean las siguientes tarjetas CRC de las clases `MaterialType` y `Material`:
 
 <table id="card">
     <tr>
@@ -42,5 +40,13 @@ Dadas las siguientes tarjetas CRC de las clases `MaterialType` y `Material`, y e
     </tr>
 </table>
 
-El material es peligroso si el tipo de material es peligroso.
+💡 El material es peligroso si el tipo de material es peligroso.
 
+**Consigna:**
+
+Dadas estas tarjetas CRC y el código correspondiente en las carpetas `src` y `test`, completar el código que falta para:
+
+1. Representar en C# las responsabilidades de esas tarjetas CRC
+2. Que pasen todos los casos de prueba provistos
+
+💡 El código que falta está en la clase `Material`.

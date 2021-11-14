@@ -4,12 +4,9 @@
     {
         public string Name { get; set; }
 
-        public bool IsDangerous { get; set; }
-
-        public MaterialType(string name, bool isDangerous)
+        public MaterialType(string name)
         {
             this.Name = name;
-            this.IsDangerous = isDangerous;
         }
     }
 }
