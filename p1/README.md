@@ -40,7 +40,7 @@ Sean las siguientes tarjetas CRC de las clases `MaterialType` y `Material`:
     </tr>
 </table>
 
-ğŸ’¡ El material es peligroso si el tipo de material es peligroso.
+í ½í²¡ El material es peligroso si el tipo de material es peligroso.
 
 **Consigna:**
 
@@ -49,4 +49,6 @@ Dadas estas tarjetas CRC y el cÃ³digo correspondiente en las carpetas `src` y `t
 1. Representar en C# las responsabilidades de esas tarjetas CRC
 2. Que pasen todos los casos de prueba provistos
 
-ğŸ’¡ El cÃ³digo que falta estÃ¡ en la clase `Material`.
+âš ï¸ No deben modificar los casos de prueba.
+
+í ½í²¡ El cÃ³digo que falta estÃ¡ en la clase `Material`.

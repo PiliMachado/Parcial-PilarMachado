@@ -38,7 +38,7 @@ En este problema deben demostrar que conocen el patr√≥n Polymorphism Sean las si
     </tr>
 </table>
 
-üí° Dos materiales son iguales sin tienen el mismo `MaterialType` y el mismo valor en la propiedad `Name` con la que se implementa la responsabilidad de conocer el nombre del material.
+Ì†ΩÌ≤° Dos materiales son iguales sin tienen el mismo `MaterialType` y el mismo valor en la propiedad `Name` con la que se implementa la responsabilidad de conocer el nombre del material.
 
 **Consigna:**
 
@@ -46,3 +46,5 @@ Dadas estas tarjetas CRC y el c√≥digo correspondiente en las carpetas `src` y `t
 
 1. Analizar si la operaci√≥n que determinar si dos objetos son iguales es correcta o no
 2. Que pasen todos los casos de prueba provistos
+
+‚ö†Ô∏è No deben modificar los casos de prueba.

@@ -29,7 +29,7 @@ Fecha: 31/3/2021
 4 de 'Placa de cart√≥n' a $56
 ```
 
-üí° El formato preciso del texto de la publicaci√≥n no es importante **en la medida que incluya para cada √≠tem publicado la cantidad, el nombre del material y el precio**. Noten que conocer la cantidad y el precio de un √≠tem publicado son responsabilidades de la clase `PublicationItem` y el conocer el nombre del material es una responsabilidad de la clase `Material`.
+Ì†ΩÌ≤° El formato preciso del texto de la publicaci√≥n no es importante **en la medida que incluya para cada √≠tem publicado la cantidad, el nombre del material y el precio**. Noten que la cantidad y el precio son responsabilidades de la clase `PublicationItem` y el nombre del material es una responsabilidad de conocer de la clase `Material`.
 
 <table id="card">
     <tr>
@@ -56,5 +56,7 @@ Dadas estas tarjetas CRC y el c√≥digo correspondiente en las carpetas `src` y `t
 1. Determinar qu√© clase debe tener la responsabilidad de conocer el costo total de una publicaci√≥n.
 2. Que pasen todos los casos de prueba provistos
 
-üí° El costo total de una publicaci√≥n se calcula como la suma de los sub totales de sus √≠tems, y el sub total de un √≠tem
+‚ö†Ô∏è No deben modificar los casos de prueba.
+
+Ì†ΩÌ≤° El costo total de una publicaci√≥n se calcula como la suma de los sub totales de sus √≠tems, y el sub total de un √≠tem
 se calculo como el producto de la cantidad por el precio del √≠tem.
