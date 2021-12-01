@@ -1,4 +1,5 @@
 ﻿namespace Ucu.Poo.Defense
+
 {
     public class MaterialType
     {
