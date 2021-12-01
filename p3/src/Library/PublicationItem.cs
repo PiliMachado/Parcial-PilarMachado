@@ -14,5 +14,10 @@ namespace Ucu.Poo.Defense
             this.Quantity = quantity;
             this.Price = price;
         }
+
+        public int CostoTotal()
+        {
+            return this.Quantity*this.Price;
+        }
     }
 }

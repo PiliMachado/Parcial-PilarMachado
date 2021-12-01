@@ -36,11 +36,13 @@ namespace Ucu.Poo.Defense
         public string AsText()
         {
             StringBuilder result = new StringBuilder();
+            result.Append($"La fecha es {this.EndDate}");
             foreach (PublicationItem publication in this.Items)
             {
                 result.Append($"{publication.Quantity}, {publication.Price}, {publication.Material}");
             }
             return result.ToString();
+
         }
     }
 }
